@@ -6,6 +6,7 @@ How to cheat:
 step 1: Copy the förklaring and begrepp from the website.
 
 For example it should look like this:
+"
 Allmän opinionen
 Vanliga åsikter eller attityder inom en någorlunda stor grupp av människor, främst i samhällsfrågor.
 
@@ -16,7 +17,7 @@ Bygger på att begränsa innehållet och få intäkter i form av prenumerationer
 
 Dagordningsmakt
 Den makt medier har att genom att påverka vad som diskuteras i samhället.
-
+"
 Step 2:
 paste the copy into the load-begrepp_forklaring.txt
 
