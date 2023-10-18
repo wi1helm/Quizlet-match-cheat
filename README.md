@@ -22,3 +22,6 @@ paste the copy into the load-begrepp_forklaring.txt
 
 Step 3: 
 run the program and then go into a match. Do crtl-A and crtl-c and then let the code run
+
+
+The find cords file is there to find the cords of the cards if the corinades i use are wrong.
