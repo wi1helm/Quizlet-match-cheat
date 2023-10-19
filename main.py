@@ -112,9 +112,9 @@ def setup_click(kort_indexs):
     # Click the matching pairs of cards
     for pair in matching_indexes:
         click_card(pair[0])  # Click the first card in the pair
-        time.sleep(0.05)  # Adjust the delay as needed between clicks
+        time.sleep(0.1)  # Adjust the delay as needed between clicks
         click_card(pair[1])  # Click the second card in the pair
-        time.sleep(0.05)  # Adjust the delay as needed between clicks
+        time.sleep(0.07)  # Adjust the delay as needed between clicks
 
 
 
@@ -124,7 +124,7 @@ last_clipboard = current_clipboard
 while True:
     # Check clipboard every second
     current_clipboard = pyperclip.paste()
-    time.sleep(0.01)
+    time.sleep(0.05)
     if current_clipboard != last_clipboard:
         setup_click(hitta_kort_index(find_input(current_clipboard), begrepp_lista, forklaring_lista))
         break
