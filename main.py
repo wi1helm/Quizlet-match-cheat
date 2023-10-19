@@ -111,10 +111,14 @@ def setup_click(kort_indexs):
 
     # Click the matching pairs of cards
     for pair in matching_indexes:
-        click_card(pair[0])  # Click the first card in the pair
-        time.sleep(0.1)  # Adjust the delay as needed between clicks
-        click_card(pair[1])  # Click the second card in the pair
-        time.sleep(0.07)  # Adjust the delay as needed between clicks
+        click_card(pair[0])
+           # Click the first card in the pair
+        #time.sleep(0.1)  # Adjust the delay as needed between clicks
+        click_card(pair[1])
+        
+        click_card(pair[0])
+        click_card(pair[1])   # Click the second card in the pair
+        #time.sleep(0.1)  # Adjust the delay as needed between clicks
 
 
 
