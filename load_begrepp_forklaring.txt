@@ -1,70 +1,190 @@
-Allmän opinionen
-Vanliga åsikter eller attityder inom en någorlunda stor grupp av människor, främst i samhällsfrågor.
+Regeringsformen
+Grundlag som styr hur riksdag, regeringen, valen osv. ska gå till.
 
 
-Användarmodellen
-Bygger på att begränsa innehållet och få intäkter i form av prenumerationer.
-
-
-Dagordningsmakt
-Den makt medier har att genom att påverka vad som diskuteras i samhället.
-
-
-Filterbubbla
-Det tillstånd som uppstår när internetanvändare isoleras från information som går emot en åsikt eller övertygelse.
-
-
-Frihetliga modellen
-Anser att man ska använda reklam för att på så sätt få ett brett utbud av medier.
-
-
-Informationsfrihet
-Frihet att inhämta och ta emot upplysningar samt att i övrigt ta del av andra yttranden.
-
-
-Medialisering
-En process där massmedia påverkar andra samhällssektorer, inklusive politik, näringsliv, kultur, underhållning, sport, religion eller utbildning.
-
-
-Olaga förtal
-Att utpeka en person som brottslig eller klandervärd i sitt levnadssätt eller medvetet lämna information som kan skada personens rykte.
-
-
-Olaga hot
-Att med vapen eller hot om våld skrämma någon.
-
-
-Opinionsbildning
-Åsikter formas hos individer eller grupper.
-
-
-Opinionsförmedlare
-Personer som befinner sig närmare den enskilda människan och påverkar folk på ett mer personligt plan. Några exempel är någon bekant, en lokal politiker och din chef.
-
-
-Propaganda
-Att med hjälp av språk, bilder eller andra symboler påverka människors åsikter, värderingar eller handlingar i en bestämd riktning.
-
-
-Public service-modellen
-TV och radio som är politiskt, ekonomiskt och religiöst oberoende samt drivs utan vinstsyfte och utan direkt inflytande från offentliga eller privata aktörer.
-
-
-Räckviddsmodellen
-Man försöker nå så många läsare som möjligt för att attrahera annonsörerna och på så sätt få pengar.
-
-
-Sociala medier
-Teknik som används för människor att kommunicera direkt med varandra genom text, ljud och bild.
+Successionsordningen
+I denna lag står det vem som ska bli rikets statschef när den nuvarande dör. När vår kung dör kommer kronprinsessan Victoria bli vår drottning. År 1978 bestämdes det att även kvinnor kunde ärva tronen.
 
 
 Tryckfrihetsförordningen
-Grundlag som ger tidningar och media rätten att skriva vad de vill, med några undantag.
+Enligt denna lag får alla människor i Sverige skriva och trycka vilka åsikter de vill i tidningar, broschyrer och böcker (denna lag gäller alltså tryckta källor). Man får inte kränka någon i dessa heller.
 
 
 Yttrandefrihetsgrundlagen
-Grundlag som ger oss rätten att säga vad vi vill, med några undantag.
+Grundlag som säger att ingen i förväg får bestämma vad som ska sägas i TV och radio eller skrivas på internet.
 
 
-Åsiktskorridoren
-Innebär att bara vissa åsikter anses ok att diskutera.
+Propositioner
+Förslag från regeringen till Riksdagen
+
+
+Motioner
+Ett lagförslag från en ledamot i Riksdagen
+
+
+Budgetproposition
+Regeringens förslag till statsbudget
+
+
+Missförtroendeförklaring
+Ett sätt att avsätta en statsminister, ett statsråd eller en regering om de inte sköter sitt arbete
+
+
+Konstitutionsutskottet
+Det utskott som granskar regeringens arbete.
+
+
+Interpellationer
+En fråga till ett statsråd angående deras lagförslag
+
+
+Utskott
+I riksdagen finns 15 sådana med representanter från varje parti i riksdagen. Exempelvis kan de syssla med utbildning eller trafik. De förbereder och presenterar förslaget innan riksdagen röstar om det.
+
+
+Betänkande
+En rapport från ett utskott till riksdagen med motiverat förslag till riksdagsbeslut.
+
+
+Minister/Statsråd
+En politiker som sitter i regeringen
+
+
+Sveriges regering
+Styr landet (t.ex. utrikespolitik och försvar) och skapar budgetförslag. består av alla ministrarna och deras departement.
+
+
+Departement
+Avdelningar som jobbar åt regeringen. De är indelade efter områden, t.ex. miljön eller försvaret.
+
+
+Myndighet
+Exempelvis Skolverket, Trafikverket, skatteverket. Hjälper regeringen att genomföra de beslut som tagits.
+
+
+Kommun
+I Sverige finns 290 sådana. De ansvarar t.ex för bostäder som ska byggas, skolor och bibliotek.
+
+
+Kommunfullmäktige
+Kommunens högsta beslutande församling eller dess "riksdag". Består av människor som kallas kommunalråd.
+
+
+Grundlag
+Sverige har fyra sådana. Dessa är de viktigaste lagarna och de som är svårast att ändra.
+
+
+Riksdagen
+Representerar folket och är Sveriges högsta beslutande organ. Godkänner budgeten, utser statsministern, stiftar lagar, kontrollerar regeringen.
+
+
+Statsminister
+Regeringens chef som utser och leder regeringen. Oftast partiledaren för partiet som fått flest röster.
+
+
+Talmannen
+Är ordförande i riksdagen.
+
+
+Majoritetsregering
+Regering som har stöd av en majoritet av riksdagen.
+
+
+Minoritetsregering
+Regering som inte har stöd av en majoritet av riksdagen och därför behöver söka stöd andra partier för att få igenom sina förslag.
+
+
+Koalitionsregering
+En regering som består av två eller flera partier
+
+
+Enpartiregering
+En regering som bara består av ett parti. Kan vara både majoritetsregering och minoritetsregering.
+
+
+Kommun
+Har bland annat ansvar för förskola, skola och äldrevård. Vi har 290st i Sverige.
+
+
+Kommunalskatt
+Från detta får kommunerna det mesta av sina inkomster.
+
+
+Kommunfullmäktige
+Här fattas besluten i en kommun. Kommunens "riksdag"
+
+
+Kommunstyrelsen
+Så kallas kommunens "regering". Ger förslag och verkställer beslut.
+
+
+Kommunalråd
+politiskt tillsatt chef, viktigaste ledamot av kommunstyrelse
+
+
+Region
+Har huvudansvar för sjukvård och kollektivtrafik. Vi har 21 i Sverige.
+
+
+Kommunala självstyrelsen
+kommuner och regioner får sköta lokala eller regionala frågor utan att staten lägger sig i.
+
+
+Nämnd
+Har ansvar för olika delar av kommunpolitiken, t.ex utbildning eller miljö.
+
+
+Remiss
+Då riksdagen skickar ärendet vidare till ett utskott för att få hjälp.
+
+
+Votering
+En omröstning i riksdagen
+
+
+Statsförvaltningen
+Den organisation som hjälper regeringen att utföra riksdagens beslut och komma med förslag till regeringen.
+
+
+Samlingsregering
+Under t ex krigstid när inget parti vill ta hela ansvaret, kan alla partier ha folk med i regeringen.
+
+
+Partigrupp
+Alla riksdagsledamöter som tillhör samma parti.
+
+
+Maktdelning
+Uppdelning av makten inom staten. Ofta i lagstiftande makt, verkställande makt och dömande makt.
+
+
+Opposition
+De som bekämpar regeringen och dess politik.
+
+
+Federalstat/förbundsstat
+Ett land som är består av olika delar som själva får bestämma det mesta. Exempel: USA.
+
+
+Statschef
+Ett lands statsöverhuvud som har den högsta titeln i ett land. I vissa länder har personen ingen makt (Sverige) i andra mycket makt.
+
+
+Presidentialism/presidentstyre
+Statsskick där folket väljer en president som blir statschef och regeringschef.
+
+
+Parlamentarism
+När ett land styrs av en regering som har stöd av landets parlament
+
+
+Majoritetsvalsystem
+Innebär att den som fått flest röster vinner valet och därmed slår ut andra kandidater. Finns t.ex. i USA och England.
+
+
+Proportionellt valsystem
+Valsystem där ett parti i varje valkrets får lika stor del av mandaten som de fått röster. 21 procent av rösterna= 21 procent av mandaten. Finns t.ex. i Sverige.
+
+
+Konstitution/grundlag
+De viktigaste lagarna för ett land som är svårast att ändra. I Sverige kallas de grundlagar och är fyra stycken.

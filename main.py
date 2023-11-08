@@ -35,19 +35,24 @@ print("  ")
 print("  ")
 
 card_positions = {
-        0: (360, 300),  # Coordinates for card 0
-        1: (760, 300),  # Coordinates for card 1
-        2: (1160, 300),# Add coordinates for all cards
-        3: (1560, 300),
-        4: (360, 600),
-        5: (760, 600),
-        6: (1160, 600),
-        7: (1560, 600),
-        8: (360, 900),
-        9: (760, 900),
-        10: (1160, 900),
-        11: (1560, 900),
-    }
+    0: (360, 300),  # Coordinates for card 0
+    1: (760, 300),  # Coordinates for card 1
+    2: (1160, 300),  # Add coordinates for all cards
+    3: (1560, 300),
+    4: (360, 600),
+    5: (760, 600),
+    6: (1160, 600),
+    7: (1560, 600),
+    8: (360, 900),
+    9: (760, 900),
+    10: (1160, 900),
+    11: (1560, 900),
+}
+
+def find_time(text_input):
+    text_lines = text_input.split('\n')[3:]
+    text_line = text_lines[0]
+    return float(text_line)
 
 def find_input(text_input):
     lines_to_skip = 8
@@ -63,34 +68,29 @@ def find_input(text_input):
     print("options_lista =", options_lista)
     return options_lista
 
-
 def hitta_kort_index(kort_texter, kort_lista, kort_forklaring_lista):
     kort_index_lista = []
     for kort_text in kort_texter:
         # Använd hela korttexten (inte bara hälften) för att matcha exakt
         index_i_kort = kort_lista.index(kort_text) if kort_text in kort_lista else -1
         index_i_forklaring = kort_forklaring_lista.index(kort_text) if kort_text in kort_forklaring_lista else -1
-        
+
         # Only include indexes where a match is found
         kort_indexes = [index_i_kort, index_i_forklaring]
         kort_indexes = [index for index in kort_indexes if index != -1]
-        
+
         kort_index_lista.extend(kort_indexes)  # Extend the list to add duplicates
     print(kort_index_lista)
     return kort_index_lista
 
-
-
-
 def click_card(index):
-        if index in card_positions:
-            x, y = card_positions[index]
-            pyautogui.click(x, y)
+    if index in card_positions:
+        x, y = card_positions[index]
+        pyautogui.click(x, y)
 
-
-def setup_click(kort_indexs):
+def setup_click(kort_indexes, wait_time):
     # List of card indexes
-    card_indexes = kort_indexs
+    card_indexes = kort_indexes
 
     matching_indexes = []
 
@@ -107,14 +107,24 @@ def setup_click(kort_indexs):
 
     print(matching_indexes)
     # Function to click a card at the specified index
-    
 
     # Click the matching pairs of cards
     for pair in matching_indexes:
-        click_card(pair[0])
-        click_card(pair[1])
-        click_card(pair[0])
-        click_card(pair[1])
+        if pair != matching_indexes[-1]: 
+            click_card(pair[0])
+            click_card(pair[1])
+            click_card(pair[0])
+            click_card(pair[1])
+        else:
+            while (time.time() - timer_start) < wait_time + 3.0:
+                if (time.time() - timer_start) > wait_time-0.6:
+                    click_card(pair[0])
+                    time.sleep(0.01)
+                    click_card(pair[1])
+                    break
+                if (time.time() - timer_start) > 30:
+                    break
+    
 
 # Main loop to run in the background
 current_clipboard = pyperclip.paste()
@@ -124,8 +134,13 @@ while True:
     current_clipboard = pyperclip.paste()
     time.sleep(0.05)
     if current_clipboard != last_clipboard:
-        setup_click(hitta_kort_index(find_input(current_clipboard), begrepp_lista, forklaring_lista))
+        time_aim = 12
+        current_time = find_time(current_clipboard)
+        wait_time = time_aim - current_time 
+        print(wait_time)
+        timer_start = time.time()
+        print(timer_start)
+        setup_click(hitta_kort_index(find_input(current_clipboard), begrepp_lista, forklaring_lista), wait_time)
         break
 
     last_clipboard = current_clipboard
-
