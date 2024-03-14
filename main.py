@@ -134,7 +134,7 @@ while True:
     current_clipboard = pyperclip.paste()
     time.sleep(0.05)
     if current_clipboard != last_clipboard:
-        time_aim = 12
+        time_aim = 2
         current_time = find_time(current_clipboard)
         wait_time = time_aim - current_time 
         print(wait_time)
