@@ -1,54 +1,498 @@
-Soldat
-En person som krigar.
+abscess
+böld
 
 
-Trupper
-En grupp av soldater. En armé.
+agens
+något som orsakar en effekt eller sjukdom (tex en biologiskt aktiv substans eller ett smittämne)
 
 
-Allians
-När flera länder arbetar tillsammans.
+anamnes
+sjukdomshistoria
 
 
-Ententen
-Allians mellan Storbritannien, Frankrike & Ryssland.
+anaplastisk
+avsaknad av differentiering hos en neoplastisk cell
 
 
-Trippelalliansen/centralmakterna
-Allians mellan Tyskland, Österrike-Ungern och Italien.
+angiogenes
+kärlnybildning
 
 
-Stormakt
-Ett land som har mycket makt. Ett land som kan bestämma mycket.
+aplasi
+medfödd avsaknad av organ eller vävnad
 
 
-Mobilisera
-Ett land gör sin armé stridsberedd. Redo för krig.
+apoptos
+programmerad celldöd
 
 
-Invadera
-Att tränga in i annat land med syfte att erövra det.
+ascites
+ansamling av vätska i bukhålan
 
 
-Front
-Plats där man krigar, man är närmast fiende.
+atrofi
+storleksminskning av ett normalt utvecklat organ eller vävnad
 
 
-Offensiv
-Att man krigar "framåt". Attackerar.
+bakteremi
+förekomst av bakterier i blodet
 
 
-Defensiv
-Att man krigar "bakåt". Försvarar.
+benign
+godartad
 
 
-Skyttegrav
-Är ett manshögt dike där militären har skydd för kulor och granater.
+calor
+värme
 
 
-Territorium
-Ett område som tillhör ett land/armé.
+chock
+akut cirkulatorisk svikt med hypoxi i vävnaderna på grund av systemisk hypotension
 
 
-Versaillesfreden
-Så kallas det fredsavtal som slöts efter första världskriget mellan västmakterna (Ententen) och Tyskland och som undertecknades 1919 i Versailles. Tyskland fick ta skulden för kriget och tvingades betala mycket pengar och bli av med land.
+cicatrix
+ärr
+
+
+cyanos
+blåaktig missfärgning av hud och slemhinnor
+
+
+diapedes
+migration av erytrocyter och/eller leukocyter från blodet genom kärlväggen
+
+
+dilatation
+utvidgning
+
+
+dolor
+smärta
+
+
+dysgenes
+missbildning, bristande embryonalutveckling
+
+
+dysplasi
+onormal utveckling av organ, vävnad eller celler
+
+
+echymoser
+fokala blödningar, ca 1-3 cm stora
+
+
+embolus (sing)
+emboli (plural)
+Propp i ett kärl som blockerar blodflödet
+
+t.ex.
+koagulerat blod-trombembolus
+tumörceller- tumörembolus
+fett-fettembolus
+mm
+
+
+empyem
+ackumulation av var i en kroppshåla
+
+
+epistaxis
+näsblod
+
+
+erosion
+ytlig epitelskada i hud/slemhinna som ej går igenom basalmembranet.
+
+
+etiologi
+sjukdomsorsak
+
+
+exsudat
+proteinrik, ofta cellrik vätska
+
+
+fibrinös
+ett högt fibrininnehåll
+
+
+fibros
+deposition av kollagen bindväv i organ eller vävnad
+
+
+flegmon
+varbildande icke avgränsad inflammation i vävnad
+
+
+fraktur
+benbrott
+
+
+functio laesa
+nedsatt funktion
+
+
+
+granulationsvävnad
+ersättningsvävnad som karakteriseras av fibroblaster, lucker/omogen kollagen bindväv samt angiogenes
+
+
+granulom
+en typ av kronisk inflammatorisk reaktion som domineras av makrofager och karaktäriseras av sin organisation
+
+
+hematom
+extravaskulär blodansamling i en vävnad
+
+
+hemoperikard
+blod i hjärtsäcken
+
+
+hemostas
+blodstillning
+
+
+hemothorax
+blod i brösthålan
+
+
+hereditär
+ärftlig
+
+
+hydroperikard
+ansamling av vätska i hjärtsäcken
+
+
+hydrothorax
+ansamling av vätska i brösthålan
+
+
+hyperemi
+ökad mängd blod i vävnad på grund av en aktiv dilatation av blodkärl
+
+
+hyperplasi
+organ-/vävnadsförstoring orsakad av ett ökat antal celler
+
+
+hypertrofi
+organ-/vävnadsförstoring orsakad av en ökning av cellernas storlek
+
+
+hypoplasi
+ofullständig utveckling av ett organ eller vävnad
+
+
+hypoxi
+syrebrist i vävnaden
+
+
+iatrogen
+tillstånd som orsakats på grund av medicinsk behandling, utredning eller ordination
+
+
+idiopatisk
+tillstånd som uppstår utan känd bakomliggande orsak
+
+
+ikterus
+gulsot, gul missfärgning av vävnad orsakad av bilirubin
+
+
+infarkt
+lokal nekros till följd av upphörd blodtillförsel/syrebrist
+
+
+infektion
+när ett smittämne som bakterier eller virus koloniserar en värdorganism
+
+
+inflammation
+kroppens svar på en vävnadsskada eller infektiöst agens
+
+
+involution
+tillbakabildning av organ
+
+
+ischemi
+nedsatt blodförsörjning till organ/vävnad
+
+
+kallus (skelett)
+Oorganiserad bindväv som bildas kring frakturändarna som del i frakturläkning av ben.
+
+
+kallus (hud)
+Lokal hyperplasi av förhornade epidermis på grund av friktion eller tryck
+
+
+karcinom
+elakartad tumör av epitelialt ursprung
+
+
+karyolys
+upplösning av cellkärnan
+
+
+karyorrexis
+fragmentering av cellkärnan
+
+
+komminut
+trasig/bruten i flera mindre delar
+
+
+kronisk
+process som pågått under lägre tid
+
+
+laceration
+sönderslitning
+
+
+lesion
+skada, patologisk förändring
+
+
+letal
+dödlig
+
+
+luxation
+urledvridning
+
+
+malign
+elakartad
+
+
+melena
+svart eller mörkfärgad avföring
+
+
+metaplasi
+en differentierad celltyp ersätts av en annan differentierad celltyp
+
+
+metastas
+dottertumör växer separat från modertumören
+
+
+monomorf
+likformig
+
+
+nekros
+celldöd
+
+
+neoplasi
+tumör
+
+
+ödem
+onormal ansamling av vätska i vävnad eller kroppshålor
+
+
+onkogen
+gener som främjar till autonom celltillväxt i tumörceller
+
+
+patogenes
+sjukdomsutveckling
+
+
+patologi
+läran om sjukdomar/sjukliga förändringar
+
+
+petekier
+punktformiga, nålsticksstora blödningar (1-2mm)
+
+
+pleomorfism
+variation i utseende
+
+
+purulent
+varigt (exsudat/inflammation)
+
+
+pus
+var
+
+
+pustler
+små varfyllda blåsor
+
+
+pyknos
+hyperkondenserad cellkärna
+
+
+regeneration
+återbildning
+
+
+rubor
+rodnad
+
+
+ruptur
+bristning
+
+
+sarkom
+malign tumör utgående från mesenkymala celler
+
+
+sepsis
+tillväxt av patogena mikroorganismer eller förekomst av deras toxiner i cirkulationen vilka orsakat allvarliga kliniska symtom
+
+
+serom
+lokal ansamling av serum i vävnad
+
+
+serös
+serumartad
+
+
+skirrös
+fast, bindvävsrik vävnad
+
+
+skleros
+förtätning eller förhårdning i vävnad
+
+
+stas
+ökad mängd blod (syrefattigt) i vävnad/organ pga minskat avflöde
+
+
+stenos
+förträngning
+
+
+stroma
+bindvävsstommen i exempelvis körtlar, nybildningar
+
+
+suppurativ
+varig inflammation
+
+
+transsudat
+proteinfattig, cellfattig vätska
+
+
+trauma
+skada pga yttre våld
+
+
+tromb
+patologisk koagelbildning i kärl
+
+
+tumor
+svullnad
+
+
+ulcus
+djup epitelskada som går igenom basalmembran, orsakas av sjuklig process
+
+
+vulnus
+sår orsakat av yttre trauma
+
+
+Fibrom
+Benign tumör utgående från fibroblaster (bindväv)
+
+
+Fibrosarkom
+Malign tumör utgående från fibroblaster (bindväv)
+
+
+Lipom
+Benign tumör utgående från adipocyter (fettvävnad)
+
+
+Liposarkom
+Malign tumör utgående från adipocyter (fettvävnad)
+
+
+Chondrom
+Benign tumör utgående från chondrocyter (brosk)
+
+
+Chondrosarkom
+Malign tumör utgående från chondrocyter (brosk)
+
+
+Osteom
+Benign tumör utgående från osteoblaster (ben)
+
+
+Osteosarkom
+Malign tumör utgående från Osteoblaster (ben)
+
+
+Hemangiom
+Benign tumör utgående från endotelceller (blodkärl)
+
+
+Hemangiosarkom
+Malign tumör utgående från utgående från endotelceller (blodkärl)
+
+
+Leiomyom
+Benign tumör utgående från glatta muskelceller (glatt muskulatur)
+
+
+Leiomyosarkom
+Malign tumör utgående från glatta muskelceller (glatt muskulatur)
+
+
+Rhabdomyom
+Benign tumör utgående från skelettmuskelceller (skelettmuskel)
+
+
+Rhabdomyosarkom
+Malign tumör utgående från skelettmuskelcell (skelettmuskulatur)
+
+
+Lymfom
+Malign tumör utgående från lymfocyter
+
+
+Mesoteliom
+Malign tumör utgående från mesotelceller (pleura/pericard/peritoneum)
+
+
+Melanocytom
+Benign tumör utgående från melanocyter
+
+
+Melanom
+Malign tumör utgående från melanocyter
+
+
+Papillom
+Benign tumör utgående från skivepitelceller (hud/slemhinna)
+
+
+Skivepitelskarcinom
+Malign tumör utgående från skivepitelceller (hud/slemhinna)
+
+
+Adenom
+Benign tumör utgående från körtelceller (t.ex adnexa i hud/juver/mag-tarmkanal/lever/livmoder/thyroidea/lunga mm)
+
+
+Adenokarcinom
+Malign tumör utgående från körtelceller (t.ex adnexa i hud/juver/mag-tarmkanal/lever/livmoder/thyroidea/lunga mm)

@@ -55,7 +55,7 @@ def find_time(text_input):
     return float(text_line)
 
 def find_input(text_input):
-    lines_to_skip = 8
+    lines_to_skip = 7
     text_lines = text_input.split('\n')[lines_to_skip:]
 
     # Join the remaining lines to form the options text
@@ -71,17 +71,16 @@ def find_input(text_input):
 def hitta_kort_index(kort_texter, kort_lista, kort_forklaring_lista):
     kort_index_lista = []
     for kort_text in kort_texter:
-        # Använd hela korttexten (inte bara hälften) för att matcha exakt
         index_i_kort = kort_lista.index(kort_text) if kort_text in kort_lista else -1
         index_i_forklaring = kort_forklaring_lista.index(kort_text) if kort_text in kort_forklaring_lista else -1
 
-        # Only include indexes where a match is found
         kort_indexes = [index_i_kort, index_i_forklaring]
         kort_indexes = [index for index in kort_indexes if index != -1]
 
-        kort_index_lista.extend(kort_indexes)  # Extend the list to add duplicates
+        kort_index_lista.extend(kort_indexes)
     print(kort_index_lista)
     return kort_index_lista
+
 
 def click_card(index):
     if index in card_positions:
@@ -134,7 +133,7 @@ while True:
     current_clipboard = pyperclip.paste()
     time.sleep(0.05)
     if current_clipboard != last_clipboard:
-        time_aim = 2
+        time_aim = 1
         current_time = find_time(current_clipboard)
         wait_time = time_aim - current_time 
         print(wait_time)
